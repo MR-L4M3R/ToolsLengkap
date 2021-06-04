@@ -211,6 +211,7 @@ figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/MR-L4M3R/SpamWa
 cd SpamWa
+pip2 install requests
 python spam.py
 fi
 
@@ -266,9 +267,9 @@ echo $i"Silahkan di pakai semoga bermanfaat Buat loe"
 sleep 2
 echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
 sleep 2
-echo $ku"Facebook :"$i" Rahmad Ramadhani"
-echo $ku"YouTube  :"$i" YouTube RMD"
-echo $ku"WhatsApp :"$i" 0887882xxxx"
+echo $ku"Facebook :"$i" KUNYIK"
+echo $ku"YouTube  :"$i" MR.L4M3RXploiy"
+echo $ku"WhatsApp :"$i" +1(507)5790039"
 sleep 2
 echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
