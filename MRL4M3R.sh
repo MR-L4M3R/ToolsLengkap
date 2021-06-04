@@ -113,7 +113,7 @@ echo $ku"["$me"8"$ku"]"$i" BOT REACTION FACEBOOK"
 echo $ku"["$me"9"$ku"]"$i" SPAM SMS WA"
 echo $ku"["$me"10"$ku"]"$i" SPAM "
 echo $ku"["$me"11"$ku"]"$i" YOUTUBE-DL"
-echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
+echo $ku"["$me"12"$ku"]"$i" DEPES TANPA NYARI DORK"
 echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU"
 echo $i"["$me"14"$i"]"$ku" EXIT"
 echo
@@ -239,9 +239,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/thelinuxchoice/locator.git
-cd locator
-bash locator.sh
+git clone https://github.com/MR-L4M3R/sadboy
+cd sadboy
+sh depes.sh
 fi
 
 if [ $pil = 13 ]
