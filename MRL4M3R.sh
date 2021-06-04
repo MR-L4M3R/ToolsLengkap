@@ -110,14 +110,14 @@ echo $ku"["$me"5"$ku"]"$i" CLONING YAHOO"
 echo $ku"["$me"6"$ku"]"$i" OSIF"
 echo $ku"["$me"7"$ku"]"$i" PROFILEGUARD FB"
 echo $ku"["$me"8"$ku"]"$i" BOT REACTION FACEBOOK"
-echo $ku"["$me"9"$ku"]"$i" SPAM CALL"
-echo $ku"["$me"10"$ku"]"$i" SPAM WHATSHAPP"
+echo $ku"["$me"9"$ku"]"$i" SPAM SMS WA"
+echo $ku"["$me"10"$ku"]"$i" SPAM "
 echo $ku"["$me"11"$ku"]"$i" YOUTUBE-DL"
 echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
 echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU"
 echo $i"["$me"14"$i"]"$ku" EXIT"
 echo
-echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda"$pur"]"
+echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan loe"$pur"]"
 read -p"Ôò¦ÔöÇ>> " pil
 
 if [ $pil = 1 ]
@@ -156,9 +156,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
-cd multi-bruteforce-facebook
-python2 MBF.py
+git clone https://github.com/MR-L4M3R/hackfb
+cd hackfb
+python2 hackfb.py
 fi
 
 if [ $pil = 5 ]
