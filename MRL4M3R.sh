@@ -115,9 +115,9 @@ echo $ku"["$me"10"$ku"]"$i" SPAM "
 echo $ku"["$me"11"$ku"]"$i" YOUTUBE-DL"
 echo $ku"["$me"12"$ku"]"$i" DEPES TANPA NYARI DORK"
 echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU"
-echo $ku"["$me"13"$ku"]"$i" HACK CAMERA CCTV"
-echo $ku"["$me"13"$ku"]"$i" PHISING ALL GAME"
-echo $i"["$me"14"$i"]"$ku" EXIT"
+echo $ku"["$me"14"$ku"]"$i" HACK CAMERA CCTV"
+echo $ku"["$me"15"$ku"]"$i" PHISING ALL GAME"
+echo $i"["$me"16"$i"]"$ku" EXIT"
 echo
 echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan loe"$pur"]"
 read -p"Ôò¦ÔöÇ>> " pil
