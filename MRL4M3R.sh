@@ -256,7 +256,7 @@ cd brutal-sms
 python2 run.py
 fi
 
-if [ $pil = 13 ]
+if [ $pil = 14 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -266,11 +266,16 @@ cd ipcs
 python2 scan.py
 fi
 
+if [ $pil = 15 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
 git clone https://github.com/reyspeed/phish-all
 cd phish-all
 bash croot.sh
 
-if [ $pil = 14 ]
+if [ $pil = 16 ]
 then
 clear
 figlet -f slant "T U N G G U"|Ulolcat
