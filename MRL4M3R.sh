@@ -102,7 +102,7 @@ echo $i"Ôûê"$pu"  INSTAGRAM :  @kepo"$i"          Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
-echo $ku"["$me"1"$ku"]"$i" REPORT FB"
+echo $ku"["$me"1"$ku"]"$i" REPORT FB WORK"
 echo $ku"["$me"2"$ku"]"$i" BRUTE PORCE"
 echo $ku"["$me"3"$ku"]"$i" BRUTE FORCE FB CRACKER"
 echo $ku"["$me"4"$ku"]"$i" MBF"
@@ -115,6 +115,8 @@ echo $ku"["$me"10"$ku"]"$i" SPAM "
 echo $ku"["$me"11"$ku"]"$i" YOUTUBE-DL"
 echo $ku"["$me"12"$ku"]"$i" DEPES TANPA NYARI DORK"
 echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU"
+echo $ku"["$me"13"$ku"]"$i" HACK CAMERA CCTV"
+echo $ku"["$me"13"$ku"]"$i" PHISING ALL GAME"
 echo $i"["$me"14"$i"]"$ku" EXIT"
 echo
 echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan loe"$pur"]"
@@ -125,9 +127,8 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/IlayTamvan/Report.git
+git clone https://github.com/IlayTamvan/Report
 cd Report
-unzip Report.zip
 python2 Report.py
 fi
 
@@ -255,6 +256,19 @@ cd brutal-sms
 python2 run.py
 fi
 
+if [ $pil = 13 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/kancotdiq/ipcs
+cd ipcs
+python2 scan.py
+fi
+
+git clone https://github.com/reyspeed/phish-all
+cd phish-all
+bash croot.sh
 
 if [ $pil = 14 ]
 then
